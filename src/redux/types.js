@@ -1,0 +1,4 @@
+export const GET_CURRENCIES = "GET_CURRENCIES"
+export const SET_CURRENCY = "SET_CURRENCY"
+export const SET_NUMBER = "SET_NUMBER"
+export const SWAP_CURRENCIES = "SWAP_CURRENCIES"
